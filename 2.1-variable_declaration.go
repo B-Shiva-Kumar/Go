@@ -7,7 +7,7 @@ import "fmt"
 
 // package level variable declaration
 
-// In package lvl - will not be able to decalre for ex: `var1 := 3.141`
+// In package lvl - will not be able to declare for ex: `var1 := 3.141`
 // but can be fully declare the var
 
 var var1 float32 = 10.01
@@ -25,7 +25,7 @@ func main() {
 	fmt.Println("var2 = ", var2)
 	fmt.Printf("%T, %v \n", var2, var2)
 
-	// functional lvl varibales
+	// functional lvl variables
 	var3 := 1000.0001
 	fmt.Println("var3 = ", var3)
 	fmt.Printf("%T, %v \n", var3, var3)
