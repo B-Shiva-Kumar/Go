@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// Variables declaration can be grouped together into blocks for greater readability and code quality.
+
 // pck lvl variable declaration
 
 // multiple variables declaration at one time
