@@ -1,3 +1,3 @@
 # Go
 
-My Golang concept & code snippets learnings will be updated here.
+My Golang concept learnings & code snippets will be updated here.
