@@ -4,6 +4,9 @@ import "fmt"
 
 func main() {
 
+	// once variable is declared we must use it
+	// else throws error
+
 	// we can declare variables in 3-ways
 
 	// 1st
