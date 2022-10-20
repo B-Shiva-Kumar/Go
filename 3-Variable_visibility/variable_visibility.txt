@@ -1,0 +1,3 @@
+Lower case first letter for package scope
+Upper case first letter to export (can be used globally)
+no private scope in golang
