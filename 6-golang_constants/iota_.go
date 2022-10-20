@@ -6,7 +6,7 @@ func main() {
 
 	// 1
 	// _ -> write only variable
-	// write only variable(_) is used to save the memory instead of string the value 0 as we will not use it
+	// write only variable(_) is used to save the memory instead of storing the value 0 as we will not use it
 	// i,e. Zero value is not avaible for this _ contant
 	const (
 		// _ = iota  -> value 0 is not stored hence not available
