@@ -1,0 +1,34 @@
+Value Types:
+
+- Use pointers to change these things in a function
+
+int
+float
+string
+bool
+structs
+
+
+References Types:
+
+- No need of using Pointers
+
+slices
+maps
+channels
+pointers
+functions
+
+
+NOTE:
+
+When we create a slice, Go will automatically create which two data structures?
+-> An array & structure that records the length & capacity of the slice & reference to undelying array.
+
+With 'value types' in Go, do we have to worry about pointers 
+if we want to pass a value to a function and modify the original value inside the function?
+-> Yes
+
+With 'reference types' in Go, do we have to worry about pointers 
+if we want to pass a value to a function and modify the original value inside the function?
+-> No
