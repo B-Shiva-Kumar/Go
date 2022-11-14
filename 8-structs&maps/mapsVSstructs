@@ -1,0 +1,16 @@
+Map: 
+
+- All keys & values must be of same type.
+- Keys are indexed, we can iterate over them.
+- Use to represent a collection of related properties.
+- Don't need to know all the keys at compile time.
+- Maps are reference type.
+
+
+Struct:
+
+- Value can be of different type.
+- keys don't support indexing.
+- Need to know all the different fields at compile time.
+- Use to represent a "thing" with a lot of different properties.
+- Structs are valye type.
