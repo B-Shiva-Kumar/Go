@@ -1,3 +1,5 @@
+// simple get request
+
 package main
 
 import (

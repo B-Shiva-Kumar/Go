@@ -1,3 +1,6 @@
+// Simple HTTP Server
+// run loclhost in browser
+
 package main
 
 import (
