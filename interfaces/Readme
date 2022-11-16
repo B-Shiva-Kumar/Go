@@ -1,0 +1,6 @@
+What are Interfaces?
+
+- An interface is a set of method signatures.
+- When a type provides def. for all the methods in the interface, it is said to implement the interface.
+- Interfaces are not "generic" types
+- Interfaces are Implicit
