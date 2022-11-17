@@ -3,4 +3,12 @@ What are Interfaces?
 - An interface is a set of method signatures.
 - When a type provides def. for all the methods in the interface, it is said to implement the interface.
 - Interfaces are not "generic" types
-- Interfaces are Implicit
+- Interfaces in Go are set implicitly, so all you have to do is define the required methods on your type and it will qualify as implementing that interface.
+
+
+- When we say that interfaces can be satisfied implicitly?
+* we don't have to write extra code to say some stype satisfies an interface
+
+- To say that a type satisfies an interface means that?
+* type implements all of the functions contains in the interface def.
+
