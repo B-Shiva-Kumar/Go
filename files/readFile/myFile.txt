@@ -1,0 +1,7 @@
+Hi There...
+
+-> to get source code on the terminal use following cmds:
+
+--> go build readFile.go
+--> we can see readFile.exe file
+--> ./readFile readFile.go  <-- prints source code on the terminal.
